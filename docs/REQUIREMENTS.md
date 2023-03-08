@@ -10,7 +10,7 @@ Marketplace application(Rozetka for example), adapted for Android (and WEB)
 ### Guest
 1) Guest can see all goods
 2) Guest can receive data of specific item(name, quantity, description, price, etc)
-3) Guest can see all products of specific category
+3) Guest can choose any category
 4) Guest can add his goods to shopping cart
 
 ### Customer
