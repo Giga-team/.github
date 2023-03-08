@@ -1,4 +1,4 @@
-## Hi👋
+## Hi, we`re Giga-Team👋
 
 <!--
 
