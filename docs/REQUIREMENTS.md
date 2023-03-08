@@ -23,3 +23,4 @@ Marketplace application(Rozetka for example), adapted for Android (and WEB)
 ### Admin
 1) Admin can edit(create, update, delete) data about products 
 2) Admin can manage users(block for example)
+3) Admin can track all orders(Optional)
